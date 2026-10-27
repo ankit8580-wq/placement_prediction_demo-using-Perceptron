@@ -33,3 +33,7 @@ This project demonstrates a machine learning classification model using Python. 
 
 ## 📚 Applications
 This project is useful for understanding supervised machine learning, classification, and model evaluation using Perceptron.
+
+## 👨‍💻 Author
+ankit8580-wq
+GitHub Profile: https://github.com/ankit8580-wq
